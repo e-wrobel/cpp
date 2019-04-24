@@ -1,0 +1,5178 @@
+
+
+15:48:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583724 22094236  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:48:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:48:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     375416      69124      13208      75772      95340
+-/+ buffers/cache:     204304     240236
+Swap:       102396       3084      99312
+
+
+}
+
+
+
+15:48:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:45
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:45
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:45
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583732 22094228  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:45
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     378968      65572      13236      75796      95372
+-/+ buffers/cache:     207800     236740
+Swap:       102396       3056      99340
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     379512      65028      13236      75796      95376
+-/+ buffers/cache:     208340     236200
+Swap:       102396       3056      99340
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583744 22094216  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583744 22094216  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     380924      63616      13260      75796      95408
+-/+ buffers/cache:     209720     234820
+Swap:       102396       3032      99364
+
+
+}
+
+
+
+15:49:46
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583748 22094212  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583756 22094204  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:47
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:48
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:48
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     387256      57284      13308      75796      95472
+-/+ buffers/cache:     215988     228552
+Swap:       102396       2984      99412
+
+
+}
+
+
+
+15:49:48
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     387928      56612      13312      75796      95480
+-/+ buffers/cache:     216652     227888
+Swap:       102396       2980      99416
+
+
+}
+
+
+
+15:49:48
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:48
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     388596      55944      13320      75796      95488
+-/+ buffers/cache:     217312     227228
+Swap:       102396       2972      99424
+
+
+}
+
+
+
+15:49:48
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583764 22094196  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:49
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:49
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     389896      54644      13332      75796      95608
+-/+ buffers/cache:     218492     226048
+Swap:       102396       2960      99436
+
+
+}
+
+
+
+15:49:49
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     390224      54316      13340      75796      95620
+-/+ buffers/cache:     218808     225732
+Swap:       102396       2952      99444
+
+
+}
+
+
+
+15:49:49
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:49
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     391412      53128      13352      75796      95632
+-/+ buffers/cache:     219984     224556
+Swap:       102396       2940      99456
+
+
+}
+
+
+
+15:49:49
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583780 22094180  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:50
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:50
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583784 22094176  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:50
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583784 22094176  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:50
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583792 22094168  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:50
+Auth received from client: 
+Auth error! Closing communication.
+
+15:49:50
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:50
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     394908      49632      13400      75804      95696
+-/+ buffers/cache:     223408     221132
+Swap:       102396       2892      99504
+
+
+}
+
+
+
+15:49:51
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:51
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583804 22094156  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:51
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:51
+Auth received from client: 
+Auth error! Closing communication.
+
+15:49:51
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583808 22094152  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:52
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:52
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:52
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:52
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     400648      43892      13480      75804      95804
+-/+ buffers/cache:     229040     215500
+Swap:       102396       2812      99584
+
+
+}
+
+
+
+15:49:52
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:52
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:53
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583832 22094128  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:53
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:53
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     403480      41060      13512      75804      95844
+-/+ buffers/cache:     231832     212708
+Swap:       102396       2780      99616
+
+
+}
+
+
+
+15:49:53
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     404044      40496      13528      75804      95864
+-/+ buffers/cache:     232376     212164
+Swap:       102396       2764      99632
+
+
+}
+
+
+
+15:49:53
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583836 22094124  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:53
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     404512      40028      13532      75804      95872
+-/+ buffers/cache:     232836     211704
+Swap:       102396       2760      99636
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583844 22094116  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     405020      39520      13540      75804      95884
+-/+ buffers/cache:     233332     211208
+Swap:       102396       2752      99644
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     405416      39124      13544      75804      95888
+-/+ buffers/cache:     233724     210816
+Swap:       102396       2748      99648
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583852 22094108  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:54
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     408212      36328      13584      75804      95940
+-/+ buffers/cache:     236468     208072
+Swap:       102396       2708      99688
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583860 22094100  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583864 22094096  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583864 22094096  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583864 22094096  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583868 22094092  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:55
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583868 22094092  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     405604      38936      13652      75812      96020
+-/+ buffers/cache:     233772     210768
+Swap:       102396       2640      99756
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     404604      39936      13656      75812      96028
+-/+ buffers/cache:     232764     211776
+Swap:       102396       2636      99760
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583872 22094088  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     403856      40684      13656      75812      96028
+-/+ buffers/cache:     232016     212524
+Swap:       102396       2636      99760
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     402732      41808      13660      75812      96036
+-/+ buffers/cache:     230884     213656
+Swap:       102396       2632      99764
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:57
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583876 22094084  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     400672      43868      13668      75812      96044
+-/+ buffers/cache:     228816     215724
+Swap:       102396       2624      99772
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     400484      44056      13668      75812      96048
+-/+ buffers/cache:     228624     215916
+Swap:       102396       2624      99772
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     400172      44368      13668      75812      96048
+-/+ buffers/cache:     228312     216228
+Swap:       102396       2624      99772
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:58
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583884 22094076  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     398548      45992      13672      75812      96056
+-/+ buffers/cache:     226680     217860
+Swap:       102396       2620      99776
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     398236      46304      13676      75812      96060
+-/+ buffers/cache:     226364     218176
+Swap:       102396       2616      99780
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583884 22094076  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     397488      47052      13676      75812      96060
+-/+ buffers/cache:     225616     218924
+Swap:       102396       2616      99780
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:49:59
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583888 22094072  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     395536      49004      13680      75812      96072
+-/+ buffers/cache:     223652     220888
+Swap:       102396       2612      99784
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583892 22094068  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     394600      49940      13688      75820      96080
+-/+ buffers/cache:     222700     221840
+Swap:       102396       2604      99792
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     394100      50440      13688      75820      96084
+-/+ buffers/cache:     222196     222344
+Swap:       102396       2604      99792
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     393708      50832      13688      75820      96084
+-/+ buffers/cache:     221804     222736
+Swap:       102396       2604      99792
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583896 22094064  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583896 22094064  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:0
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     392192      52348      13692      75820      96088
+-/+ buffers/cache:     220284     224256
+Swap:       102396       2600      99796
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     391132      53408      13696      75820      96096
+-/+ buffers/cache:     219216     225324
+Swap:       102396       2596      99800
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     390944      53596      13696      75820      96096
+-/+ buffers/cache:     219028     225512
+Swap:       102396       2596      99800
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583900 22094060  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:1
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583904 22094056  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583904 22094056  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583908 22094052  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     387840      56700      13708      75820      96116
+-/+ buffers/cache:     215904     228636
+Swap:       102396       2584      99812
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     387652      56888      13708      75820      96116
+-/+ buffers/cache:     215716     228824
+Swap:       102396       2584      99812
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:2
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:3
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583908 22094052  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:3
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583908 22094052  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:3
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:3
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:3
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:3
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583920 22094040  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583920 22094040  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     385392      59148      13724      75836      96144
+-/+ buffers/cache:     213412     231128
+Swap:       102396       2568      99828
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:50:16
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
+
+15:50:38
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:50:38
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:50:38
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:50:38
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:50:38
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:50:38
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:50:42
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+
+
+}
+
+Output sent to client: {
+
+
+
+}
+
+
+
+15:53:12
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+ls
+
+}
+
+Executing command: {
+
+ls
+
+}
+
+Output sent to client: {
+
+1_root_bundle.crt
+2_poczta.e-wrobel.pl.crt
+agent
+agent2.log
+agent.conf
+agent_unix.cpp
+applink.c
+client
+client_unix.cpp
+client_unix_ssl.cpp
+Desktop
+Documents
+Downloads
+Music
+nohup.out
+oldconffiles
+Pictures
+private2.pem
+private.key
+private.pem
+priv.key
+Public
+public.pem
+python_games
+Templates
+Videos
+
+
+}
+
+
+
+15:53:13
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+df
+
+}
+
+Executing command: {
+
+df
+
+}
+
+Output sent to client: {
+
+System plików     1K-bl   użyte dostępne %uż. zamont. na
+/dev/root      29183468 5583924 22094036  21% /
+devtmpfs         217972       0   217972   0% /dev
+tmpfs            222268       4   222264   1% /dev/shm
+tmpfs            222268    4656   217612   3% /run
+tmpfs              5120       4     5116   1% /run/lock
+tmpfs            222268       0   222268   0% /sys/fs/cgroup
+/dev/mmcblk0p6    66528   21383    45146  33% /boot
+tmpfs             44456       0    44456   0% /run/user/109
+tmpfs             44456       0    44456   0% /run/user/1000
+
+
+}
+
+
+
+15:53:13
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+free
+
+}
+
+Executing command: {
+
+free
+
+}
+
+Output sent to client: {
+
+             total       used       free     shared    buffers     cached
+Mem:        444540     380000      64540      13744      76052      96228
+-/+ buffers/cache:     207720     236820
+Swap:       102396       2548      99848
+
+
+}
+
+
+
+15:53:13
+Auth received from client: password1
+Please provide commands.
+Commands provided: {
+
+pwd
+
+}
+
+Executing command: {
+
+pwd
+
+}
+
+Output sent to client: {
+
+/home/pi
+
+
+}
+
+
