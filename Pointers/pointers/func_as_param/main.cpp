@@ -28,11 +28,15 @@ int printme(int (*f)(int, int), int a, int b){
 
 int main(int argc, const char * argv[]) {
     
-    int (*fun)(int, int) = mul;
+    int (*fun[])(int, int) = {mul, add};
     
-    int val = printme(fun, 5, 10);
+    int val = printme(fun[0], 5, 10);
     
-    cout << "Val: " << val << endl;
+    cout << "(MUL) Val: " << val << endl;
+    
+    val = printme(fun[1], 5, 10);
+    
+    cout << "(ADD) Val: " << val << endl;
     
     return 0;
 }
