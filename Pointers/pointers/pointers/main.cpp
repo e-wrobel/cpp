@@ -76,6 +76,6 @@ int main(int argc, const char * argv[]) {
     
     cout << "Static array modified in [s]: " << double(end-start)/CLOCKS_PER_SEC << setprecision(4) << endl;
     
-    
+   
     return 0;
 }
